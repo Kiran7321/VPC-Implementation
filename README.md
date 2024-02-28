@@ -132,3 +132,5 @@ python3 -m http.server 8000
 23. As you can see below, the we're now able to see the page hosted on one of the EC2 instances in the private subnet of the VPC.
 
 ![Screenshot 2024-02-28 at 9 58 05 PM](https://github.com/Kiran7321/VPC-Implementation/assets/89258260/502d9320-fb7b-4052-bfd0-afd15515eb80)
+
+24. You could host another page on the 2nd Ec2 instance and then try accessing the LB. You will get different pages on same requests over the time. Give it a go ;)
