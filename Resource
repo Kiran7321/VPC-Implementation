@@ -1,0 +1,3 @@
+I have created this documentation while learing AWS from Abhishek Veramalla who is known for his DevOps knowledge.
+Attaching the link for the video where he clearly explained about VPC and it's practical implementation.
+Link: https://youtu.be/FZPTL_kNvXc?feature=shared
